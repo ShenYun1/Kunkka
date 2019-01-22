@@ -71,3 +71,4 @@ Alatelee(http://agatelee.cn)修改版
 * 修复置顶文章后显示错误
 * 修复因PHP7+ 而导致class.tgm.php的标题错误
 * 修复默认小工具CSS显示问题
+* 添加 手机端底部友情链接
