@@ -1,5 +1,5 @@
 # Kunkka
-* 本Wordpress主题以[牧风](https://mufeng.me/)大神的Kunkka 1.06为基础改进而来，经Alatelee二次修改(http://agatelee.cn)，又经神韵博客(https://51shenyun.cn)三次修改。
+* 本Wordpress主题以[牧风] (https://mufeng.me/) 大神的Kunkka 1.06为基础改进而来，经Alatelee二次修改 (http://agatelee.cn) ，又经神韵博客 (https://51shenyun.cn) 三次修改。
 * 牧风 github项目 已失效
 * Alatelee github项目 https://github.com/AgateLee/Kunkka
 * 神韵 github项目 https://github.com/ShenYun1/Kunkka
@@ -57,15 +57,13 @@ Alatelee(http://agatelee.cn)修改版
   * 使用https方式获取gavatar头像，避免被墙
 
 **v1.20_local_shenyun**
-* 以下版本为神韵博客(https://51shenyun.cn) 基础于Alatelee(http://agatelee.cn)的修改
-
+* 以下版本为神韵博客(https://51shenyun.cn) 基础于Alatelee (http://agatelee.cn) 的修改
 * 添加评论算数验证码 
 * 添加侧边栏缓存 使其静态 减少数据库查询 /更新周期1小时 可在sidebar.php修改
 * 优化SEO修改在首页时logo为h1标签 文章时标题为h1标签 logo为h2标签
 * 优化SEO为head添加canonical标签 利于收录
 * 移除预获取DNS 加快加载速度
 * 移除更多无用head头 更加简洁
-
 
 **v1.21_local_shenyun**
 * 添加复制时版权提示
