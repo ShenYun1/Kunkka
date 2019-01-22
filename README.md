@@ -18,7 +18,7 @@
 牧风原版
 
 **v1.08_local**
-Alatelee(http://agatelee.cn)修改版
+Alatelee (http://agatelee.cn) 修改版
 
 * 关于页面功能增加
 * 404页面功能增加
