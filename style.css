@@ -208,6 +208,7 @@ font-size: 18px;
 
 @font-face {
     font-family: 'mutheme-kunkka';
+	font-display: auto;
     src: url('public/fonts/icomoon.eot?5z92sk');
     src: url('public/fonts/icomoon.eot?5z92sk#iefix') format('embedded-opentype'),
     url('public/fonts/icomoon.ttf?5z92sk') format('truetype'),
@@ -716,8 +717,8 @@ font-size: 18px;
 
 body.full-content .post-body p,
 .single-post .post-content p {
-    margin-bottom: 20px;
-    line-height: 1.8em
+    margin-bottom: 15px;
+    line-height: 1.6em
 }
 
 body.full-content .post-body img,

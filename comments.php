@@ -72,14 +72,10 @@
                                     <div id="author_info">
                                       <?php endif; ?>
                                         <p>
-                                          <label for="author"> <small><?php _e( 'Name', MUTHEME_NAME ); ?> *</small> </label>
-                                          <input type="text" name="author" id="author" class="text" size="15" value="<?php echo $comment_author; ?>" /> </p>
-                                        <p>
-                                          <label for="mail"> <small><?php _e( 'Email', MUTHEME_NAME ); ?> *</small> </label>
-                                          <input type="text" name="email" id="mail" class="text" size="15" value="<?php echo $comment_author_email; ?>" /> </p>
-                                        <p>
-                                          <label for="url"> <small><?php _e( 'Website', MUTHEME_NAME ); ?></small> </label>
-                                          <input type="text" name="url" id="url" class="text" size="15" value="<?php echo $comment_author_url; ?>" /> </p>
+                                          <input type="text" name="author" id="author" class="text" size="15" placeholder="昵称(必填)" value="<?php echo $comment_author; ?>" />
+                                          <input type="text" name="email" id="mail" class="text" size="15" placeholder="邮箱(必填)" value="<?php echo $comment_author_email; ?>" /> 
+                                          <input type="text" name="url" id="url" class="text" size="15" placeholder="网址" value="<?php echo $comment_author_url; ?>" /> 
+										</p>
                                     </div>
                                     <?php endif; ?>
                                       <div id="author_textarea">
